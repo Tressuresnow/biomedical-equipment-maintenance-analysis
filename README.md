@@ -42,6 +42,8 @@ The analysis uses Python to process the dataset, calculate summary statistics, a
 
 ![Maintenance Workload Distribution](maintenance_workload_distribution.png)
 
+
+
 ## Limitations
 
 The findings describe patterns in the available dataset. They do not establish the causes of maintenance delays, equipment failures, or differences in service costs. Further investigation would be required before making operational decisions.
